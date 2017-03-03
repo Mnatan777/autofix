@@ -1,0 +1,714 @@
+﻿      
+.tk-acumin-pro{font-family:"acumin-pro",sans-serif;}.tk-acumin-pro-wide{font-family:"acumin-pro-wide",sans-serif;}@font-face{font-family:tk-acumin-pro-n7;src:url(https://use.typekit.net/af/37d85e/00000000000000003b9acafc/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)瑥
+format("woff2"),url(https://use.typekit.net/af/37d85e/00000000000000003b9acafc/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)h
+format("woff"),url(https://use.typekit.net/af/37d85e/00000000000000003b9acafc/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)1
+format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:tk-acumin-pro-i7;src:url(https://use.typekit.net/af/5c43e0/00000000000000003b9acafd/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)L
+format("woff2"),url(https://use.typekit.net/af/5c43e0/00000000000000003b9acafd/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)V
+format("woff"),url(https://use.typekit.net/af/5c43e0/00000000000000003b9acafd/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:tk-acumin-pro-i4;src:url(https://use.typekit.net/af/5cc863/00000000000000003b9acaf7/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/5cc863/00000000000000003b9acaf7/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/5cc863/00000000000000003b9acaf7/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:italic;}@font-face{font-family:tk-acumin-pro-n4;src:url(https://use.typekit.net/af/36f8b9/00000000000000003b9acaf6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/36f8b9/00000000000000003b9acaf6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/36f8b9/00000000000000003b9acaf6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:tk-acumin-pro-wide-n8;src:url(https://use.typekit.net/af/a7fa86/00000000000000003b9acb47/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)a
+format("woff2"),url(https://use.typekit.net/af/a7fa86/00000000000000003b9acb47/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)a
+format("woff"),url(https://use.typekit.net/af/a7fa86/00000000000000003b9acb47/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:800;font-style:normal;}@font-face{font-family:tk-acumin-pro-wide-n7;src:url(https://use.typekit.net/af/44482f/00000000000000003b9acb45/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/44482f/00000000000000003b9acb45/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/44482f/00000000000000003b9acb45/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:tk-acumin-pro-wide-i7;src:url(https://use.typekit.net/af/cd7ebb/00000000000000003b9acb46/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/cd7ebb/00000000000000003b9acb46/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/cd7ebb/00000000000000003b9acb46/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:tk-acumin-pro-wide-n4;src:url(https://use.typekit.net/af/5becac/00000000000000003b9acb3f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/5becac/00000000000000003b9acb3f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/5becac/00000000000000003b9acb3f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:tk-acumin-pro-wide-i4;src:url(https://use.typekit.net/af/e726c3/00000000000000003b9acb40/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/e726c3/00000000000000003b9acb40/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/e726c3/00000000000000003b9acb40/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:italic;}try{Typekit.load({ async: 
+true });}catch(e){}  Gallery - Auto Fix Unlimited             
+window._wpemojiSettings = 
+{"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/autofixunlimited.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=1371f31923693d593bbc81585493c8a1"}};
+ !function(a,b,c){function d(a){var 
+b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600P
+32px Arial",a){case"flag":return 
+k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":returnP
+k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function\
+e(a){var 
+c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var,
+f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  img.wp-smiley, img.emoji { display: inline !important; border: none 
+!important; box-shadow: none !important; height: 1em !important; width: 1em 
+!important; margin: 0 .07em !important; vertical-align: -0.1em !important;
+ background: none !important; padding: 0 !important; }            
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+ __gaTracker('create', 'UA-74688003-1', 'auto'); __gaTracker('set', 'forceSSL', 
+true); __gaTracker('require', 'displayfeatures');
+ __gaTracker('send','pageview');     /* <![CDATA[ */ var 
+jQueryColorboxSettingsArray = 
+{"jQueryColorboxVersion":"4.6.2","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"false","colorboxSlideshowAuto":"false","colorboxScalePhotos":"false","colorboxPreloading":"false","colorboxOverlayClose":"true","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"close","colorboxNext":"next","colorboxPrevious":"previous","colorboxSlideshowStart":"starti
+slideshow","colorboxSlideshowStop":"stop slideshow","colorboxCurrent":"{current} 
+of {total} images","colorboxXhrError":"This content failed to 
+load.","colorboxImgError":"This image failed to 
+load.","colorboxImageMaxWidth":"95%","colorboxImageMaxHeight":"95%","colorboxImageHeight":"65%","colorboxImageWidth":"65%","colorboxLinkHeight":"65%","colorboxLinkWidth":"65%","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"","autoHideFlash":"","autoColorbox":"","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
+ /* ]]> */           .broken_link, a.broken_link { text-decoration: 
+line-through; } .crjs .phoneswap { visibility: hidden; } 
+@font-face{font-family:acumin-pro;src:url(https://use.typekit.net/af/37d85e/00000000000000003b9acafc/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)b
+format("woff2"),url(https://use.typekit.net/af/37d85e/00000000000000003b9acafc/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)o
+format("woff"),url(https://use.typekit.net/af/37d85e/00000000000000003b9acafc/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)0
+format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:acumin-pro;src:url(https://use.typekit.net/af/5c43e0/00000000000000003b9acafd/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)e
+format("woff2"),url(https://use.typekit.net/af/5c43e0/00000000000000003b9acafd/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/5c43e0/00000000000000003b9acafd/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:acumin-pro;src:url(https://use.typekit.net/af/5cc863/00000000000000003b9acaf7/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/5cc863/00000000000000003b9acaf7/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/5cc863/00000000000000003b9acaf7/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:italic;}@font-face{font-family:acumin-pro;src:url(https://use.typekit.net/af/36f8b9/00000000000000003b9acaf6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/36f8b9/00000000000000003b9acaf6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/36f8b9/00000000000000003b9acaf6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:acumin-pro-wide;src:url(https://use.typekit.net/af/a7fa86/00000000000000003b9acb47/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1)a
+format("woff2"),url(https://use.typekit.net/af/a7fa86/00000000000000003b9acb47/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/a7fa86/00000000000000003b9acb47/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:800;font-style:normal;}@font-face{font-family:acumin-pro-wide;src:url(https://use.typekit.net/af/44482f/00000000000000003b9acb45/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/44482f/00000000000000003b9acb45/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/44482f/00000000000000003b9acb45/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:acumin-pro-wide;src:url(https://use.typekit.net/af/cd7ebb/00000000000000003b9acb46/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/cd7ebb/00000000000000003b9acb46/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/cd7ebb/00000000000000003b9acb46/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:acumin-pro-wide;src:url(https://use.typekit.net/af/5becac/00000000000000003b9acb3f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/5becac/00000000000000003b9acb3f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/5becac/00000000000000003b9acb3f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:acumin-pro-wide;src:url(https://use.typekit.net/af/e726c3/00000000000000003b9acb40/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff2"),url(https://use.typekit.net/af/e726c3/00000000000000003b9acb40/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("woff"),url(https://use.typekit.net/af/e726c3/00000000000000003b9acb40/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&token=poYYDFaAIMgUZ835MSJE2i2SsRb2pf1V98qoLnBkZx98ERjwDoRwZYGYjrFTtr059AELVSvjPP%2FHTi42e7%2F7bGQpjJ0t%2FTUp9rR7SSkx0gcTQyc381WL3JBMkdPfVKd1) 
+format("opentype");font-weight:400;font-style:italic;} 
+
+
+
+
+
+
+
+   
+
+
+ 
+ 
+
+  Franchise
+   Careers
+   Feedback
+   Gallery
+   
+
+
+
+Navigation
+
+Toggle navigation 
+
+
+ 
+
+  Services
+
+
+  Locations
+
+
+  About Us
+
+
+  Promotions
+
+
+  Contact
+
+
+  Schedule Service
+
+
+
+5 Convenient Texas Locations to Serve You!
+
+  Schedule Service
+  Call Us Today!
+  Magnolia, TX
+  Missouri City, TX
+  Cypress, TX
+  Jones Rd (Houston, TX)
+  Collision Fix
+  
+ 
+Find a Location
+ 
+
+
+
+
+Magnolia, TX
+
+5918 FM 1488
+Magnolia, TX 77354
+
+(281) 789-6269
+
+
+
+
+
+
+
+
+
+Missouri City, TX
+
+8711 Hwy 6 South
+Missouri City, TX 77459
+
+(281) 717-6303
+
+
+
+
+
+
+
+
+
+
+
+
+Cypress, TX
+
+15131 Spring Cypress Rd
+Cypress, TX 77429
+
+(281) 746-6346
+
+
+
+
+
+
+
+
+
+
+
+
+Houston, TX
+
+10202 Jones Rd
+Houston, TX 77604
+
+(281) 717-6350
+
+
+
+
+
+
+
+
+
+
+Collsion Fix
+
+12755 Windfern Rd
+Houston, TX 77604
+
+(281) 717-6308
+
+
+
+
+
+
+
+
+
+
+
+
+Hwy 290, Houston
+
+Coming soon.
+ 
+
+
+
+  
+Gallery
+
+
+Gallery
+Schedule Service 
+
+See What Fix Unlimited Has to Offer
+
+#gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 
+10px; text-align: center; width: 20%; } #gallery-1 img { border: 2px solid 
+#cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /* see 
+gallery_shortcode() in wp-includes/media.php */  
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+   
+
+
+
+
+
+
+Schedule Your Next Repair
+
+
+
+           var gf_global = {"gf_currency_config":{"name":"U.S. 
+Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/autofixunlimited.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/autofixunlimited.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};n
+ 
+
+ 
+  Name*
+
+
+  Phone*
+
+
+  Email*
+    
+
+  Date
+    
+
+  Choose a Time
+
+    Choose a Time
+
+    8:00
+
+    8:30
+
+    9:00
+
+    10:00
+
+    10:30
+
+    11:00
+
+    11:30
+
+    12:00
+
+    12:30
+
+    1:00
+
+    1:30
+
+    2:00
+
+    2:30
+
+    3:00
+
+    3:30
+
+    4:00
+
+    4:30
+
+    5:00
+
+    5:30
+
+  Choose a Location
+
+    Choose a Location
+
+    Magnolia
+
+    Missouri City
+
+    Cypress
+
+    Jones Rd. (Houston)
+
+    Collision Fix (Houston)
+
+  Vehicle Year*
+
+
+  Vehicle Make*
+
+
+  Vehicle Model*
+
+
+  Services/Comments
+Questions or Comments
+
+
+  *Required
+
+  Phone
+
+
+  This field is for validation purposes and should be left unchanged.
+
+
+         
+This iframe contains the logic required to handle AJAX powered Gravity Forms. 
+jQuery(document).ready(function($){gformInitSpinner( 7, 
+'http://autofixunlimited.com/wp-content/plugins/gravityforms/images/spinner.gif' 
+);jQuery('#gform_ajax_frame_7').load( function(){var contents = 
+jQuery(this).contents().find('*').html();var is_postback = 
+contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var 
+form_content = jQuery(this).contents().find('#gform_wrapper_7');var 
+is_confirmation = 
+jQuery(this).contents().find('#gform_confirmation_wrapper_7').length > 0;var 
+is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = 
+form_content.length > 0 && ! is_redirect && ! 
+is_confirmation;if(is_form){jQuery('#gform_wrapper_7').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_7').addClass('gform_validation_error');} 
+else 
+{jQuery('#gform_wrapper_7').removeClass('gform_validation_error');}setTimeout( 
+function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ 
+jQuery(document).scrollTop(jQuery('#gform_wrapper_7').offset().top); }, 50 
+);if(window['gformInitDatepicker']) 
+{gformInitDatepicker();}if(window['gformInitPriceFields']) 
+{gformInitPriceFields();}var current_page = 
+jQuery('#gform_source_page_number_7').val();gformInitSpinner( 7, 
+'http://autofixunlimited.com/wp-content/plugins/gravityforms/images/spinner.gif' 
+);jQuery(document).trigger('gform_page_loaded', [7, 
+current_page]);window['gf_submitting_7'] = false;}else if(!is_redirect){var 
+confirmation_content = 
+jQuery(this).contents().find('#gforms_confirmation_message_7').html();if(!confirmation_content){confirmation_contentw
+= contents;}setTimeout(function(){jQuery('#gform_wrapper_7').replaceWith('<' + 
+'div id=\'gforms_confirmation_message_7\' class=\'gform_confirmation_message_7 
+gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + 
+'>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_7').offset().top);jQuery(document).trigger('gform_confirmation_loaded',(
+[7]);window['gf_submitting_7'] = false;}, 
+50);}else{jQuery('#gform_7').append(contents);if(window['gformRedirect']) 
+{gformRedirect();}}jQuery(document).trigger('gform_post_render', [7, 
+current_page]);} );} ); if(typeof gf_global == 'undefined') var gf_global = 
+{"gf_currency_config":{"name":"U.S. 
+Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/autofixunlimited.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/autofixunlimited.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render',{
+function(event, formId, currentPage){if(formId == 7) {if(typeof Placeholders != 
+'undefined'){ Placeholders.enable(); 
+}if(!/(android)/i.test(navigator.userAgent)){jQuery('#input_7_3').mask('(999) 
+999-9999').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} 
+} );}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, 
+formId, fields, isInit){} ); 
+jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', 
+[7, 1]) } );     
+
+
+   
+   
+   
+   
+   
+   
+   
+    
+
+
+  Home
+   Services
+   Locations
+   About Us
+   Promotions
+   Franchise
+   Careers
+   Contact
+   Schedule Service
+   
+
+
+
+©2017 • All Rights Reserved • Privacy Policy • Login 
+
+
+5 Locations to Serve You!
+Find a Location Near You >> 
+
+Fix Unlimited 
+    setTimeout(function(){var a=document.createElement("script"); var 
+b=document.getElementsByTagName('script')[0];
+ a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0012/5465.js";
+ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);           
+/* <![CDATA[ */ var jetpackCarouselStrings = 
+{"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/autofixunlimited.com\/wp-admin\/admin-ajax.php","nonce":"8da65720f0","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post 
+Comment","write_comment":"Write a Comment...","loading_comments":"Loading 
+Comments...","download_original":"View full size <span 
+class=\"photo-size\">{0}<span 
+class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please 
+be sure to submit some text with your comment.","no_comment_email":"Please 
+provide an email address to comment.","no_comment_author":"Please provide your 
+name to comment.","comment_post_error":"Sorry, but there was an error posting 
+your comment. Please try again later.","comment_approved":"Your comment was 
+approved.","comment_unapproved":"Your comment is in 
+moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter 
+Speed","focal_length":"Focal 
+Length","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/autofixunlimited.com\/wp-login.php?redirect_to=http%3A%2F%2Fautofixunlimited.com%2Four-gallery%2F","local_comments_commenting_as":"<fieldset><label,
+for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" 
+class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" 
+id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label 
+for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" 
+class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" 
+id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label 
+for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" 
+class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" 
+id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"}; /* ]]> */    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View full size 640×480
+
+
+
+
+Write a Comment...
+
+
+Email (Required) 
+
+Name (Required) 
+
+Website 
+
+ 
+
+
+
+Loading Comments...
+
+
+
+
+
+
+×
